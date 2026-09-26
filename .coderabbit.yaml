@@ -1,0 +1,3 @@
+language: "en-US"
+reviews:
+  sequence_diagrams: true
