@@ -1,0 +1,4 @@
+language: "en-US"
+tools:
+  prisma: true
+  luacheck: true
