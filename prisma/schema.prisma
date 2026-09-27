@@ -5,6 +5,7 @@ datasource db {
   provider = "postgresql"
   url      = env("DATABASE_URL")
 }
-model TcProbeTC_C3 {
+model TcProbeTC_C2 {
   id Int @id
+  note2 String @default("c2")
 }
