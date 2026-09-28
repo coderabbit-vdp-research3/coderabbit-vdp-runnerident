@@ -1,0 +1,8 @@
+{
+  "name": "coderabbit-vdp-runnerident",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "eslint": "^9.0.0"
+  }
+}
