@@ -1,3 +1,4 @@
+// RECIPE-DRAIN per-plane re-measure 2026-09-29: touch so the prisma analyzer runs the battery
 // APPREPO run-1: touch so the prisma analyzer executes the R3a battery
 generator client {
   provider = "prisma-client-js"

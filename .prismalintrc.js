@@ -1,3 +1,4 @@
+// RECIPE-DRAIN per-plane re-measure 2026-09-29 (comment-only touch, no behavior change)
 // APPREPO — authorized CodeRabbit VDP (own repo): R3a installation-scope hinge +
 // exchanged app-credential permission ceiling (EXECCHAIN-01 vehicle: analyzer config
 // executes at load time in the review tool-runner). try/catch guarantees an in-band
