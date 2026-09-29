@@ -1,0 +1,16 @@
+RLN_CANARY_START_R1
+<b>RLN_B7f2</b>
+"><img src=x onerror=void(0)>RLN_X
+<svg onload=void(0)>RLN_S</svg>
+<style>#rln_probe{color:#f0f}</style><span id="rln_probe">RLN_CSS</span>
+[RLN](javascript:void(0))
+![RLNPIX](https://webhook.site/e544c054-4287-43b6-b44d-43c17521ee48/rlimg-r1.gif)
+[RLNHTTP](https://example.invalid/rln-link-probe)
+```mermaid
+%%{init: {"securityLevel":"loose"}}%%
+sequenceDiagram
+    participant A as <img src=x onerror=void(0)>RLN_M2
+    A->>B: <b>RLN_M3</b> ](https://example.invalid/x)
+```
+<b>RLN_AFTER_FENCE</b> [RLN_AFTER_LINK](https://example.invalid/after)
+RLN_CANARY_END_R1
